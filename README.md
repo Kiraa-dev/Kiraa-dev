@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/736x/88/6a/60/886a60a690e68f12bf5974743184425f.jpg" alt="header" width="100%" />
 
-## Wsp Gang im a Dev from Germany
+## Hey my name is Kiraa im a Dev from Germany
 
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -13,6 +13,13 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+
+
+
+
+
+
+
 
 
 
