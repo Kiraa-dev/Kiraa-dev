@@ -14,7 +14,7 @@
 
 # Soical
 Discord: aa2._
-[![Fakecrime](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://fakecrime.bio/Kiraa)
+[![Fakecrime](https://img.shields.io/badge/-fakecrime.bio/Kiraa-000?style=flat-square&logo=vercel&logoColor=white)](https://fakecrime.bio/Kiraa)
 
 
 
