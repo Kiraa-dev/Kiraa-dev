@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/736x/88/6a/60/886a60a690e68f12bf5974743184425f.jpg" alt="header" width="100%" />
 
-## Hey my name is Kiraa im a Dev from Germany
+## Kiraa
 [![Fakecrime](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://fakecrime.bio/Kiraa)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -14,7 +14,7 @@
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 # Soical
-Discord: aa2._
+
 
 
 
