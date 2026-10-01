@@ -6,24 +6,24 @@
   # Kiraa
   
   <p align="center">
-    <b>Developer & Multi-Tech Enthusiast</b><br/>
-    <i>Building clean web experiences, game scripts, and performant systems.</i>
+    <b>Developer</b><br/>
+    <i>Building things for fun!.</i>
   </p>
 
   <!-- Quick Links / Badges -->
   <p align="center">
     <a href="https://fakecrime.bio/Kiraa" target="_blank">
-      <img src="https://img.shields.io/badge/Fakecrime-Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white&color=161b22" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Fakecrime-Bio_/_Showcase-0d1117?style=flat-square&logo=vercel&logoColor=white&color=161b22" alt="Fakecrime Bio" />
     </a>
     <a href="https://discord.com" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+      <img src="https://img.shields.io/badge/Discord-kiraa__dev-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </p>
 </div>
 
 ---
 
-### 💻 Tech Stack & Skills
+### 💻 Tech Skills
 
 #### Frontend & Web
 <p>
@@ -49,9 +49,9 @@
 
 | Platform | Link |
 | :--- | :--- |
-| 🌐 **Portfolio** | [fakecrime.bio/Kiraa](https://fakecrime.bio/Kiraa) |
-| 💬 **Discord** | `@dein_discord_tag` *(hier deinen Tag eintragen)* |
-| 🐙 **GitHub** | [github.com/dein-username](https://github.com) |
+| 🔗 **Bio / Showcase** | [fakecrime.bio/Kiraa](https://fakecrime.bio/Kiraa) |
+| 💬 **Discord** | `kiraa_dev` |
+| 🐙 **GitHub** | [github.com/Kiraa-dev](https://github.com/Kiraa-dev) |
 
 ---
 
