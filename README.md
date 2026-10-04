@@ -23,11 +23,11 @@
 
 ---
 
-### 👋 Über mich
+### 👋 About Me
 
-- 🛠️ Ich baue Tools, Websites und Game-Scripts, meistens einfach aus Spaß
-- 🎮 Fokus auf Game-Development, Systems und Web
-- 🤝 Offen für Projekte und Zusammenarbeit
+- 🛠️ I build tools, websites and game scripts, mostly just for fun
+- 🎮 Focused on game development, systems and web
+- 🤝 Open to projects and collaboration
 
 ---
 
