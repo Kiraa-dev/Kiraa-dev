@@ -4,26 +4,34 @@
   <br/><br/>
 
   # Kiraa
-  
+
   <p align="center">
     <b>Developer</b><br/>
-    <i>Building things for fun!.</i>
+    <i>Building things for fun.</i>
   </p>
 
-  <!-- Quick Links / Badges -->
   <p align="center">
     <a href="https://fakecrime.bio/Kiraa" target="_blank">
-      <img src="https://img.shields.io/badge/Fakecrime-Bio_/_Showcase-0d1117?style=flat-square&logo=vercel&logoColor=white&color=161b22" alt="Fakecrime Bio" />
+      <img src="https://img.shields.io/badge/Fakecrime-Bio_/_Showcase-0d1117?style=for-the-badge&logo=vercel&logoColor=white&color=161b22" alt="Fakecrime Bio" />
     </a>
     <a href="https://discord.com" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-kiraa__dev-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+      <img src="https://img.shields.io/badge/Discord-kiraa__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=Kiraa-dev&label=Profile+Views&color=161b22&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
-### 💻 Tech Skills
+### 👋 Über mich
+
+- 🛠️ Ich baue Tools, Websites und Game-Scripts, meistens einfach aus Spaß
+- 🎮 Fokus auf Game-Development, Systems und Web
+- 🤝 Offen für Projekte und Zusammenarbeit
+
+---
+
+### 💻 Tech Stack
 
 #### Frontend & Web
 <p>
@@ -42,6 +50,29 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="./metrics/overview.svg" alt="GitHub Overview" width="100%" />
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./metrics/languages.svg" alt="Top Languages" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="./metrics/habits.svg" alt="Coding Habits" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="./metrics/calendar.svg" alt="Contribution Calendar" width="100%" />
+</div>
 
 ---
 
